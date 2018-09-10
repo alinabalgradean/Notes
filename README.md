@@ -6,10 +6,13 @@ In this short doc, I'll explore Python vs. other programming languages in terms 
 ### Python 
 #### Pros
 * Very easy to learn (the code looks like pseudo-code)
+* No integer overflow (arbitrary precision)
+* Significantly less time to develop compared to C++
 * Nearly 20,000 libraries available
 * Garbage collection
 * No need to create data structures from scratch
 * No need to worry about the data types (interpreter based language - dynamic typing)
+* Interpreted (statements are executed one by one, debugging is easier than in C++)
 #### Cons
 * Dynamic typing - very error prone (e.g. especially when it comes to iterations or different data structures that share common access methods)
 * Relatively slow (when compared to C++, Java and Go)
