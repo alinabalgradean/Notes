@@ -1,2 +1,5 @@
 # Python-vs-all
-Comparison of Python vs other programming languages in terms of available features
+In this short doc, I'll explore Python vs. other programming languages in terms of various features available/not available.
+
+## Python vs. C++
+
